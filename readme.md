@@ -6,15 +6,12 @@
 - [Good Chatbot Example](#good-chatbot-example)
 - [Bad Chatbot Example](#bad-chatbot-example)
 - [Resources](#resources)
-
-
 ## Characteristics of Good Chatbots
 <img src="img/good_chatbot.png" width="300" alt="Good chatbot illustration">
-
 ### 1. Effective Problem Resolution
 - Provides *accurate* and relevant information without hallucination
 - Offers actionable solutions, not just acknowledgments
-- Knows when to escalate to human support
+- Knows when to escalate to human supportdedwffq
 
 ### 2. Contextual Awareness
 - Remembers previous parts of the conversation
