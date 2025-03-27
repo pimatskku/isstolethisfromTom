@@ -1,17 +1,21 @@
 # Chatbot Quality Guide
 
 ## Table of Contents
+
 - [Characteristics of Good Chatbots](#characteristics-of-good-chatbots)
 - [Characteristics of Bad Chatbots](#characteristics-of-bad-chatbots)
 - [Good Chatbot Example](#good-chatbot-example)
 - [Bad Chatbot Example](#bad-chatbot-example)
 - [Resources](#resources)
+
 ## Characteristics of Good Chatbots
-<img src="img/good_chatbot.png" width="300" alt="Good chatbot illustration">
+
+![Good chatbot illustration](img/good_chatbot.png)
+
 ### 1. Effective Problem Resolution
 - Provides *accurate* and relevant information without hallucination
 - Offers actionable solutions, not just acknowledgments
-- Knows when to escalate to human supportdedwffq
+- Knows when to escalate to human support
 
 ### 2. Contextual Awareness
 - Remembers previous parts of the conversation
@@ -28,6 +32,7 @@
 - Feels human-like without pretending to be human
 
 ### 5. Continuous Improvement
+
 - Learns from interactions to improve responses
 - Regularly updates knowledge base
 - Adapts to new user needs and expectations
